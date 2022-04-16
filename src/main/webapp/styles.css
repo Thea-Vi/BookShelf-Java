@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.header{
+	margin-left:500px;
+	
+}
+
+.register {
+	width: 400px;
+}
+
+.login {
+	width: 400px;
+}
+
+.form {
+	display:flex;
+	margin-left: 350px;
+	margin-top: 50px;
+}
+
+.name{
+	color: blue;
+	
+}
